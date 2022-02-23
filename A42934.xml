@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods great and wonderful work in Somerset-shire, or, The charitable farmer miraculously rewarded happening at Welling within three miles of Wells this last harvest : where an honest Godly person ... was recompensed by an extraordinary crop of wheat ... : published as a grateful acknowledgement of the goodness of Providence ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42934</idno>
+            <idno type="STC">Wing G958A</idno>
+            <idno type="STC">ESTC R186107</idno>
+            <idno type="EEBO-CITATION">09533979</idno>
+            <idno type="OCLC">ocm 09533979</idno>
+            <idno type="VID">43547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods great and wonderful work in Somerset-shire, or, The charitable farmer miraculously rewarded happening at Welling within three miles of Wells this last harvest : where an honest Godly person ... was recompensed by an extraordinary crop of wheat ... : published as a grateful acknowledgement of the goodness of Providence ...</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Harris,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Miraculous news from Summerset-shire.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Providence and government of God.</term>
+               <term>Charity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43547:1"/>
+            <pb facs="tcp:43547:1"/>
+            <p>Gods great and wonderful work IN Somerſet-shire. OR THE Charitable Farmer Miraculouſly Rewarded, HAPPENING At WELLING, within three Miles of WELLS, this laſt <hi>Harveſt.</hi>
+            </p>
+            <p>Where an honeſt Godly Perſon, having moſt part of the laſt winter ſold great quantities of Corn to the Poor in their diſtreſs, at ſix Shillings the Buſhell, when the Market-price was ten or eleven Shillings; (for which he was much derided at by his Neighbours) was recompen<g ref="char:EOLhyphen"/>ſed by an extraordinary Crop of Wheat, the like before never heard of; each Stalk having divers full large Ears; ſome 10, ſome 12, ſome 13, but generally 10 Ears, on every Stalk, one with another throughout the Field, which was Ten Acres, and upwards.</p>
+            <p>Any Perſon may ſee one of the Ears of the Corn at <hi>Joſeph</hi>'s Coffee-houſe in <hi>Swithins-Alley,</hi> near the <hi>Royal Exchange.</hi>
+            </p>
+            <p>Publiſhed as a greateful acknowledgement of the Goodneſs of Providence, and to ſtir up all to Faith in God and Charity, towards their Neighbours, from the Conſideration of ſo remarkable an Example.</p>
+            <p>With Allowance.</p>
+            <q>
+               <p>He findeth Seed to the Sower, and Bread for Food, and will <hi>multiply your ſeed,</hi> and increaſe the fruits of your Benevolence,
+<bibl>2 Cor. 9.10.</bibl>
+               </p>
+               <p>He that withholdeth Corn, the People will Curſe: but bleſſing ſhall be upon the head of him that ſelleth it,
+<bibl>Prov. 11.26.</bibl>
+               </p>
+            </q>
+            <p>Printed for <hi>Benjamin Harris,</hi> at the Stationers Armes in <hi>Swithins-Alley</hi> near the <hi>Royal Exchange.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43547:2"/>
+            <pb n="3" facs="tcp:43547:2"/>
+            <head>Miraculous NEVVS FROM Summerſet-ſhire:</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHen GOD vouchſafes to ſpeak in Miracles of Mer<g ref="char:EOLhyphen"/>cy to the Sons of Men, 'tis certainly their Duty to an<g ref="char:EOLhyphen"/>ſwer in Loud Eccho's of Praiſe and Thanksgiving. Thus it has in all Ages been the Practice of the Ser<g ref="char:EOLhyphen"/>vants of the Lord, to Re<g ref="char:EOLhyphen"/>giſter and Proclaim the Signal Actions of Provi<g ref="char:EOLhyphen"/>dence, happening in their Day, both for the Confirmation of their own faith, and Engaging Poſterity to truſt in that God that has done ſuch mighty things for their Predeceſſors, next to thoſe Sacred Authors of the Soul, Scripture Promiſes, there is
+<pb n="4" facs="tcp:43547:3" rendition="simple:additions"/>nothing a Chriſtian relyes on more, then the ſweet <hi>Ex<g ref="char:EOLhyphen"/>periences</hi> of Gods gracious dealings with him or others in his Condition, in times by paſt. Wherefore having been in part an Eye-witneſs of this Signal mercy, which I am going to relate, I could not but think it my duty to make the ſame publick; and hope though it come a<g ref="char:EOLhyphen"/>broad in the Garb of a Pamphlet, the Truth of the Nar<g ref="char:EOLhyphen"/>rative, and nature of the thing, may render it worthy the notice of ſober Men, and reſcue it from that contempt juſtly due to thoſe many ſtragling Sheets, wherewith our Streets are daily peſterd; Seldom fraight with better La<g ref="char:EOLhyphen"/>ding than Stories, either Fictitious or uſeleſs.</p>
+            <p>It cannot but be known to all, (by ſad experience I fear too many of the poorer ſort) that moſt kinds of Proviſion have of late been dear, and particularly Bread (Juſtly reputed the Staffe of Life) VVheat having laſt Spring and Summer, been ſold in ſeveral parts of <hi>England,</hi> for 10. or 11. Shillings the Buſhell: In which Scarcity, though <hi>London</hi> and the places adjacent, were plentifully ſupplyed with Corn from beyond the Seas: Some hun<g ref="char:EOLhyphen"/>dred thouſand Quarters of <hi>French</hi> Wheat, being brought in, yet remoter parts of the Nation ſuffered very conſidera<g ref="char:EOLhyphen"/>bly, but more eſpecially the Weſt; partly by reaſon of the thin Harveſt there the other Year, and partly too from the wretched Covetouſneſs of ſome Farmers, who kept up their Corn on purpoſe to make a Dearth, and would not bring it to Market till they had got it to an exceſſive Rate; It being Sold laſt VVinter at ſeveral places in <hi>Summerſet-ſhire,</hi> at Twelve Shillings a Buſhel: A price which thouſands of poor People were not able to raiſe; and therefore many that had great Charger of Children, and little Employment, were forced to make Bread of Peaſe, and Tares, <hi>&amp;c.</hi> and expoſed to much want and Hardſhip.</p>
+            <pb n="5" facs="tcp:43547:3"/>
+            <p> When Corn grow thus dear in the Markets; An ho<g ref="char:EOLhyphen"/>neſt Godly Farmer, living at a ſmall Village called <hi>Wel<g ref="char:EOLhyphen"/>ling,</hi> Scituate within three or four Miles from the City of <hi>Wells</hi> in <hi>Summerſet-ſhire,</hi> (whoſe Name I am Oblieged to Conceal, having no leave from himſelf to publiſh it) taking into conſideration the Deplorable Condition of many poor Families round about, thus in Neceſſity and almoſt ready to periſh; reſolved to afford them not only his pitty (that Common but uſeleſs Salve of Miſery) but alſo to Contribute what he could effectually to their Relief: And to that purpoſe having a conſiderable Stock of Wheat by him, he freely Sold it to all ſuch as he knew to be poor People, after the Rate of Six Shil<g ref="char:EOLhyphen"/>lings a Buſhell, although it were generally Sold by all others in the Markets thereabouts, at Ten or Eleven Shillings at leaſt. And thus he continued Selling moſt part of the laſt Winter, Spring, and Summer; as long as he had any Wheat left that he could ſpare from his own neceſſary uſe. And by this Chriſtian Compaſſionate deal<g ref="char:EOLhyphen"/>ing, tis verily beleived he was under God, a means to preſerve above a hundred Families.</p>
+            <p>This good <hi>SAMARITAN,</hi> though he had a com<g ref="char:EOLhyphen"/>petent Eſtate to live contented, and comfortably with, Yet he was no great Rich Man; which occaſioned ſeve<g ref="char:EOLhyphen"/>ral of his Neighbours to look upon themſelves far beyond him in point of Eſtate, to envy and deride him, as Act<g ref="char:EOLhyphen"/>ing very fooliſhly in not making the moſt of his own (as they vainly called it; forgetting that whatſoever we enjoy, is but lent us by the Lord, who expects it to be improved to his Service, and the Good of our fellow-Creatures) one of theſe Churliſh <hi>Nabals</hi> (as tis ſaid) one day telling him, that if he parted with his Corn ſo ſillily, he would ſhortly come to want bread himſelf. To all which this Good-man meekly anſwered: That he thought it his duty to relieve People in diſtreſs to his Ability, that he rec<g ref="char:EOLhyphen"/>koned he might afford it at the rate he ſold it for, and ve<g ref="char:EOLhyphen"/>rily
+<pb n="6" facs="tcp:43547:4"/>believed, he ſhould be never the poorer for not ex<g ref="char:EOLhyphen"/>acting theſe unreaſonable Priſes which others took, for that, God was able to make it up to him ſome other way, and that he ſhould caſt himſelf wholly on his good Providence, <hi>&amp;c.</hi>
+            </p>
+            <p>And now, Chriſtian Reader, prepare thy Attention, to obſerve Gods wonderfully making good that promiſe in his Holy Word, that he will never deceive them that truſt in him, ſince by ſo ſtrange a means, he hath been plea<g ref="char:EOLhyphen"/>ſed to return this Charitable perſon Ten fold, in a mar<g ref="char:EOLhyphen"/>vellous Crop of Wheat; ſuch as 'tis thought no Age could ever parallel.</p>
+            <p>For having ſown a piece of Ground with Wheat, con<g ref="char:EOLhyphen"/>taining ſomewhat above Ten Acres, though the Soil were but mean, and not any way conſiderably prepared by a<g ref="char:EOLhyphen"/>mendment, yet the Blades come up very thick and pro<g ref="char:EOLhyphen"/>miſing; but what was infinitely more ſtrange, when it came to Ear, there came forth many ſeveral, and diſtinct Ears upon one Stalk: Some having 7, ſome 8, ſome 9, and ſo to 13, upon ſome; ſo that throughout all that Ten Acres of Corn, every Stalk one with another, may be juſtly reckoned to produce Ten Ears apiece.</p>
+            <p>The Wheat is of that kind which they call Bearded, and has many Briſles growing up with the Ears, the Stalks are ſomewhat bigger then ordidary, yet not much, and 'tis very wonderful to think how they ſhould be able to ſupport ſuch a weight, for the Ears are generally large, and full of excellent Wheat; ſo that it is reaſonably computed by the modeſt Gueſſors that there is as much Wheat produced upon this Ten Acres, as ever was before upon ten times the ſame quantity of Ground; or that, as I am credibly in<g ref="char:EOLhyphen"/>formed, it yeilds as in the Thraſhing, anſwerably to the Bulk and and Growth of it.</p>
+            <pb n="7" facs="tcp:43547:4"/>
+            <p> The matter is a truth, known and admired throughout moſt of the Weſt of <hi>England,</hi> and to ſeveral Perſons in this City of <hi>London,</hi> divers Ears being brought up by ſome perſons lately in thoſe parts; whereof my ſelf have ſeen ſome at the Coffee-houſe in <hi>Bedlam;</hi> and others are to be ſeen at the <hi>Royal Exchange,</hi> by any perſons whoſe curioſity ſhall deſire the ſame. Some Scoffing Atheiſt may perhaps endeavour to render it improbable or disbeliev'd, but we hope the more ſober and judicious, finding it an undoubted Reality, of which they cannot but be ſatisfied upon a ſmall enquiry, will regard it with more conſideration, and give Glory to God; who by ſo remarkable an Inſtance, hath been pleaſed to declare his Providence, and make known not only that he is, as to his exiſtence, but that he is a Rewarder (ſometimes even in this life) of all thoſe that truſt in him, and obey his Commandments. And may this preſident awaken all, to abandon their Cruelty, and Uncharitableneſs, and to learn to do good and commu<g ref="char:EOLhyphen"/>nicate; for with ſuch things the moſt High is well pleaſed, and will recompence the ſame, according to his promiſe, pronounced by the wiſeſt of Kings, <hi>Prov.</hi> 11.25. <hi>The liberal Perſon ſhall have plenty, and he that watereth, ſhall be watered himſelf.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
